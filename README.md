@@ -1,1 +1,2 @@
-"# Vortex Lectures" 
+# Vortex Lectures
+
